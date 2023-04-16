@@ -8,6 +8,7 @@ Resources:
       CodeUri: src/sample
       Handler: index.slackHandler
       Runtime: nodejs14.x
+      Timeout: 60
       Architectures:
         - x86_64
       Environment:

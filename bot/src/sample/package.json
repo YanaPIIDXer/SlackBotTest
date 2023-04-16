@@ -13,7 +13,9 @@
     "typescript": "^5.0.4"
   },
   "dependencies": {
+    "@slack/web-api": "^6.8.1",
     "@types/aws-lambda": "^8.10.114",
-    "aws-lambda": "^1.0.7"
+    "aws-lambda": "^1.0.7",
+    "slack-api": "^0.1.14"
   }
 }
